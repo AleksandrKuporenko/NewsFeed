@@ -34,6 +34,7 @@
 		E98E77A725BF2BD100954A59 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = E98E77A625BF2BD100954A59 /* Constants.swift */; };
 		E9AA2CE525AE07B800BE0052 /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9AA2CE425AE07B800BE0052 /* AuthService.swift */; };
 		E9AA2CEC25AE0D7D00BE0052 /* AuthViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9AA2CEB25AE0D7D00BE0052 /* AuthViewController.storyboard */; };
+		E9C1BC2626287347001500FD /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E9C1BC2526287347001500FD /* .gitignore */; };
 		E9C75C5825B4B1C700C06B12 /* String + Height.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C75C5725B4B1C700C06B12 /* String + Height.swift */; };
 		E9CBD0832614D9C6004A00BA /* TitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CBD0822614D9C6004A00BA /* TitleView.swift */; };
 		E9CBD0872614DB16004A00BA /* InsetableTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CBD0862614DB16004A00BA /* InsetableTextField.swift */; };
@@ -76,6 +77,7 @@
 		E98E77A625BF2BD100954A59 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		E9AA2CE425AE07B800BE0052 /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
 		E9AA2CEB25AE0D7D00BE0052 /* AuthViewController.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = AuthViewController.storyboard; sourceTree = "<group>"; };
+		E9C1BC2526287347001500FD /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		E9C75C5725B4B1C700C06B12 /* String + Height.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String + Height.swift"; sourceTree = "<group>"; };
 		E9CBD0822614D9C6004A00BA /* TitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleView.swift; sourceTree = "<group>"; };
 		E9CBD0862614DB16004A00BA /* InsetableTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetableTextField.swift; sourceTree = "<group>"; };
@@ -172,6 +174,7 @@
 		E95C0BA025AE00AA00ACEA33 = {
 			isa = PBXGroup;
 			children = (
+				E9C1BC2526287347001500FD /* .gitignore */,
 				E95C0BAB25AE00AA00ACEA33 /* NewsFeed */,
 				E95C0BAA25AE00AA00ACEA33 /* Products */,
 				47172CA686489F5D540AC117 /* Pods */,
@@ -300,6 +303,7 @@
 				E95C0BB925AE00AB00ACEA33 /* LaunchScreen.storyboard in Resources */,
 				E9DFF7AC25B328A300D585C8 /* NewsFeedCell.xib in Resources */,
 				E9AA2CEC25AE0D7D00BE0052 /* AuthViewController.storyboard in Resources */,
+				E9C1BC2626287347001500FD /* .gitignore in Resources */,
 				E95C0BB625AE00AB00ACEA33 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
